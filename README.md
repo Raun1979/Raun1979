@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raun1979
+- 👋 Hi, I’m Raunak
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on automation
